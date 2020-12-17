@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcholi.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-17T12:06:36.841Z</updated>
+    <updated>2020-12-17T12:08:21.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcholi.github.io"/>
     <link rel="self" href="https://hcholi.github.io/atom.xml"/>
@@ -31,8 +31,8 @@ C:#####讨论班\GGH\GGH-20-12-15<br>
 <img src="https://hcholi.github.io/post-images/1608025265013.png" alt="" loading="lazy"><br>
 比较“好”的基可以使得空间中的点可以正确的被对应到最近的格点上，而不是实际上很远的格点。因为正交并且短 的基使得在舍入的时候偏离的不是很远。<br>
 <strong>问题：</strong><br>
-正确的范围的如何定义？什么样的距离是足够近的？<br>
-<img src="https://hcholi.github.io/post-images/1608025470830.png" alt="" loading="lazy"><br>
+正确的范围的如何定义？什么样的距离是足够近的？</p>
+<p><img src="https://hcholi.github.io/post-images/1608025470830.png" alt="" loading="lazy"><br>
 <strong>问题：</strong><br>
 (1)Hadamard ratio大于多少就可以判定为好的基？<br>
 (2)q-arry格的格基的Hadamard ratio大概为多少？<br>
@@ -40,8 +40,8 @@ C:#####讨论班\GGH\GGH-20-12-15<br>
 <img src="https://hcholi.github.io/post-images/1608030172697.png" alt="" loading="lazy"><br>
 <img src="https://hcholi.github.io/post-images/1608030379932.png" alt="" loading="lazy"><br>
 <strong>问题：</strong><br>
-Hermite基为什么是最坏的基？？？<br>
-<img src="https://hcholi.github.io/post-images/1608030442577.png" alt="" loading="lazy"><br>
+Hermite基为什么是最坏的基？？？</p>
+<h2 id="三-对ggh签名方案的攻击攻击算法要解决的问题是得到足够多的消息签名对后会得到分布在基本区域中的点根据这些点如何得到基本区域的形状和表示即隐藏平行多面体问题hpp解决这个问题可以先将平行多面体拍成超立方体方方正正的之前可能是斜的然后看这个立方体是怎么通过标准立方体旋转得到的隐藏超立方体问题然后再拉回去就得到了原来的平行多面体的表示-31-隐藏超立方体问题hhp问题就是给定超立方体中的采样点这个超立方体是通过标准的超立方体旋转得到的要找出原始的超立方体求出这个旋转矩阵u-看看这个超立方体中的点是否有统计特性-问题u和u的关系u求出来是指向立方体表面的向量合成矩阵之后就是正交变换的矩阵吗"><img src="https://hcholi.github.io/post-images/1608030442577.png" alt="" loading="lazy"><br>
 <img src="https://hcholi.github.io/post-images/1608030448104.png" alt="" loading="lazy"><br>
 <strong>三、对GGH签名方案的攻击</strong><br>
 <img src="https://hcholi.github.io/post-images/1608030546974.png" alt="" loading="lazy"><br>
@@ -51,9 +51,9 @@ Hermite基为什么是最坏的基？？？<br>
 问题就是，给定超立方体中的采样点（这个超立方体是通过标准的超立方体旋转得到的），要找出原始的超立方体（求出这个旋转矩阵U）。看看这个超立方体中的点是否有统计特性。<br>
 <img src="https://hcholi.github.io/post-images/1608206300895.png" alt="" loading="lazy"><br>
 <strong>问题：</strong><br>
-u和U的关系？u求出来是指向立方体表面的向量，合成矩阵之后就是正交变换的矩阵吗？</p>
-<p><img src="https://hcholi.github.io/post-images/1608205847922.png" alt="" loading="lazy"><br>
-这里的vi相当于矩阵U中的各个向量，w相当于自己找的u。</p>
+u和U的关系？u求出来是指向立方体表面的向量，合成矩阵之后就是正交变换的矩阵吗？</h2>
+<h2 id="这里的vi相当于矩阵u中的各个向量w相当于自己找的u"><img src="https://hcholi.github.io/post-images/1608205847922.png" alt="" loading="lazy"><br>
+这里的vi相当于矩阵U中的各个向量，w相当于自己找的u。</h2>
 <p><img src="https://hcholi.github.io/post-images/1608206427412.png" alt="" loading="lazy"><br>
 <strong>问题：</strong><br>
 梯度下降算法是什么？</p>
