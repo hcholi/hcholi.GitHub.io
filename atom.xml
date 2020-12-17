@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hcholi.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-17T12:08:21.863Z</updated>
+    <updated>2020-12-17T12:10:14.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hcholi.github.io"/>
     <link rel="self" href="https://hcholi.github.io/atom.xml"/>
@@ -41,9 +41,9 @@ C:#####讨论班\GGH\GGH-20-12-15<br>
 <img src="https://hcholi.github.io/post-images/1608030379932.png" alt="" loading="lazy"><br>
 <strong>问题：</strong><br>
 Hermite基为什么是最坏的基？？？</p>
-<h2 id="三-对ggh签名方案的攻击攻击算法要解决的问题是得到足够多的消息签名对后会得到分布在基本区域中的点根据这些点如何得到基本区域的形状和表示即隐藏平行多面体问题hpp解决这个问题可以先将平行多面体拍成超立方体方方正正的之前可能是斜的然后看这个立方体是怎么通过标准立方体旋转得到的隐藏超立方体问题然后再拉回去就得到了原来的平行多面体的表示-31-隐藏超立方体问题hhp问题就是给定超立方体中的采样点这个超立方体是通过标准的超立方体旋转得到的要找出原始的超立方体求出这个旋转矩阵u-看看这个超立方体中的点是否有统计特性-问题u和u的关系u求出来是指向立方体表面的向量合成矩阵之后就是正交变换的矩阵吗"><img src="https://hcholi.github.io/post-images/1608030442577.png" alt="" loading="lazy"><br>
-<img src="https://hcholi.github.io/post-images/1608030448104.png" alt="" loading="lazy"><br>
-<strong>三、对GGH签名方案的攻击</strong><br>
+<p><img src="https://hcholi.github.io/post-images/1608030442577.png" alt="" loading="lazy"><br>
+<img src="https://hcholi.github.io/post-images/1608030448104.png" alt="" loading="lazy"></p>
+<p><strong>三、对GGH签名方案的攻击</strong><br>
 <img src="https://hcholi.github.io/post-images/1608030546974.png" alt="" loading="lazy"><br>
 攻击算法要解决的问题是：得到足够多的消息签名对后，会得到分布在基本区域中的点，根据这些点如何得到基本区域的形状和表示？即隐藏平行多面体问题（HPP）<br>
 解决这个问题，可以先将平行多面体拍成超立方体（方方正正的，之前可能是斜的），然后看这个立方体是怎么通过标准立方体旋转得到的（隐藏超立方体问题），然后再拉回去，就得到了原来的平行多面体的表示。<br>
@@ -51,10 +51,12 @@ Hermite基为什么是最坏的基？？？</p>
 问题就是，给定超立方体中的采样点（这个超立方体是通过标准的超立方体旋转得到的），要找出原始的超立方体（求出这个旋转矩阵U）。看看这个超立方体中的点是否有统计特性。<br>
 <img src="https://hcholi.github.io/post-images/1608206300895.png" alt="" loading="lazy"><br>
 <strong>问题：</strong><br>
-u和U的关系？u求出来是指向立方体表面的向量，合成矩阵之后就是正交变换的矩阵吗？</h2>
-<h2 id="这里的vi相当于矩阵u中的各个向量w相当于自己找的u"><img src="https://hcholi.github.io/post-images/1608205847922.png" alt="" loading="lazy"><br>
-这里的vi相当于矩阵U中的各个向量，w相当于自己找的u。</h2>
-<p><img src="https://hcholi.github.io/post-images/1608206427412.png" alt="" loading="lazy"><br>
+u和U的关系？u求出来是指向立方体表面的向量，合成矩阵之后就是正交变换的矩阵吗？<br>
+<strong>-------------------------------------------------------------------------</strong><br>
+<img src="https://hcholi.github.io/post-images/1608205847922.png" alt="" loading="lazy"><br>
+这里的vi相当于矩阵U中的各个向量，w相当于自己找的u。<br>
+<strong>-------------------------------------------------------------------------</strong><br>
+<img src="https://hcholi.github.io/post-images/1608206427412.png" alt="" loading="lazy"><br>
 <strong>问题：</strong><br>
 梯度下降算法是什么？</p>
 <p><img src="https://hcholi.github.io/post-images/1608206774726.png" alt="" loading="lazy"><br>
